@@ -1,5 +1,8 @@
 _repo: Modern-daughters-b-Conversations-with-various-American-girls-and-one-man_71170
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71170-h/images/cover.jpg
 creator:
   author:
     agent_name: Black, Alexander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41831
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Black_(photographer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71170#Modern-daughters-b-Conversations-with-various-American-girls-and-one-man
 gutenberg_issued: '2023-07-11'
 identifiers:
   gutenberg: '71170'
